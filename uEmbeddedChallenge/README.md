@@ -10,3 +10,13 @@
 * 9. Involves tilting the device left (X-axis negative), then right (X-axis positive), and finally left again.
 * 10. Involves tilting the device forward (Y-axis positive), then backward (Y-axis negative), and then forward again.
 ## Message List(Not in order)
+* 1. Hello
+* 2. Hi
+* 3. How are you?
+* 4. I'm fine and you
+* 5. I'm not ok
+* 6. Why?
+* 7. Because of finals
+* 8. Same
+* 9. See you next time?
+* 10. See you.
