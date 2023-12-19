@@ -37,31 +37,19 @@
 * 3. See you.
 * 4. See you next time?
 * 5. Hi
-* 6. How are you?
+* 6. hello
 * 7. why?
 * 8. I'm not ok
 * 9. I'm fine and you
-* 10. hello
+* 10. How are you?
    ## Message List(node4) 
-* 1. See you.
+* 1. How are you?
 * 2. Same
 * 3. Because of finals
 * 4. See you next time?
-* 5.  I'm not ok
+* 5. I'm not ok
 * 6. I'm fine and you
 * 7. hello
 * 8. Hi
-* 9. How are you?
+* 9. See you.
 * 10. why?
- 
-      ## Message List(node5) 
-* 1.  I'm fine and you
-* 2. hello
-* 3. Hi
-* 4. See you.
-* 5. Same
-* 6. Because of finals
-* 7. See you next time?
-* 8.  I'm not ok
-* 9.  why?
-* 10. How are you?
